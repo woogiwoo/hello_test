@@ -8,4 +8,4 @@ number = 5
 result = factorial(number)
 print(f"The factorial of {number} is {result}.")
 
-print('자고싶다 by 태욱'
+print('자고싶다 by 태욱')
